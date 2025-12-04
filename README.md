@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Simon Frühauf, but I usually go by Bee!
 
-🎮 I'm a Technical Game Designer with a passion for all things technical, ranging from Arduinos and code to blueprinting. I'm worked at [stillalive studios](https://stillalive.games) in Innsbruck, and I previously studied at [BUAS](https://www.buas.nl/en/programmes/creative-media-and-game-technologies) in the Netherlands.
+🎮 I'm a Technical Game Designer with a passion for all things technical, ranging from Arduinos and code to blueprinting. I worked at [stillalive studios](https://stillalive.games) in Innsbruck, and I previously studied at [BUAS](https://www.buas.nl/en/programmes/creative-media-and-game-technologies) in the Netherlands.
 
 ---
 #### More Links
